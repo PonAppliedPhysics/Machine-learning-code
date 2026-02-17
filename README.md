@@ -120,7 +120,7 @@
   - Respect API rate limits to avoid service disruption                                            
                                                                                                    
   ---                                                                                              
-  🤖 Built with Claude Code                                                                        
+                                                                      
                                                                                                    
   **Copy the entire text above** and replace your current README.md with it. This version:         
   - ✅ Does NOT include your actual API keys                                                       
